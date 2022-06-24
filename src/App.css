@@ -1,3 +1,11 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
 .App {
+  background-image: url('https://img.wallpapershd.info/image/2021/04/08/wallpaper-starry-sky-black-stars-1617909423-1600x900.jpg');
+  color: white;
+  font-family: Nunito , sans-serif;
   text-align: center;
 }
