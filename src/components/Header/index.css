@@ -1,0 +1,8 @@
+.solar-system-header {
+  align-items: center;
+  background-color: rgb(0, 0, 18);
+  display: flex;
+  height: 12vh;
+  justify-content: center;
+  width: 100%;
+}
