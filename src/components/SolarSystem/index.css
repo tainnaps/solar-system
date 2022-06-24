@@ -1,0 +1,16 @@
+.solar-system {
+  align-content: center;
+  display: flex;
+  flex-direction: column;
+  gap: 4vh;
+  height: 50vh;
+  justify-content: center;
+  width: 100%;
+}
+
+.planets {
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
