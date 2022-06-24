@@ -1,0 +1,21 @@
+.planet-card {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 2vh;
+  height: 220px;
+  justify-content: center;
+  width: fit-content;
+}
+
+.planet-name {
+  font-size: large;
+}
+
+.planet-image {
+  width: 150px;
+}
+
+.planet-image:hover {
+  zoom: 120%;
+}
