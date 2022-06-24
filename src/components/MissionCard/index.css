@@ -1,0 +1,19 @@
+.mission-card {
+  align-items: center;
+  background-color: azure;
+  border-radius: 10px;
+  color: black;
+  display: flex;
+  flex-direction: column;
+  font-size: large;
+  gap: 2vh;
+  height: 30vh;
+  justify-content: center;
+  opacity: 0.7;
+  transition: 0.3s;
+  width: 25%;
+}
+
+.mission-card:hover {
+  opacity: 0.9;
+}
