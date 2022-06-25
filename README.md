@@ -4,7 +4,7 @@ Projeto de uma landing page desenvolvido durante o curso de Desenvolvimento Web 
 
 A página foi desenvolvida em React, trabalhando seus conceitos básicos, e mostra os planetas do sistema solar e informações sobre algumas missões feitas ao espaço.
 
-Abaixo, é possível ver um gif que mostra o funcionamento da página. Para acessar o deploy, clique [aqui](https://tainnaps.github.io/solar-system/) 🚀
+Abaixo, é possível ver um gif que mostra o funcionamento da página. É possível acessar o deploy [aqui](https://tainnaps.github.io/solar-system/) 🚀
 
 <img src="/src/images/SolarSystem.gif" alt="Funcionamento do projeto" />
 
